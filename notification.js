@@ -1,4 +1,4 @@
-function notifyMe(content) {
+function notify(content) {
 
   let accessGranted = "Notification Ready"
   if (!("Notification" in window)) {
@@ -20,7 +20,7 @@ function notifyMe(content) {
 
 }
 
-export {notifyMe}
+export {notify}
 
 
 //setTimeout(notifyMe, 2000)
