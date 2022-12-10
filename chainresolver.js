@@ -98,4 +98,4 @@ const firebaseConfig = {
         } else {
           location.href = "/";
         }
-      });
+      }); 

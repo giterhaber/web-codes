@@ -1,1 +1,43 @@
-wala lang
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/bulma/0.9.4/css/bulma.min.css" integrity="sha512-HqxHUkJM0SYcbvxUw5P60SzdOTy/QVwA1JJrvaXJv4q7lmbDZCmZaqz01UPOaQveoxfYRv1tHozWGPMcuTBuvQ==" crossorigin="anonymous" referrerpolicy="no-referrer" />
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/codemirror/5.52.2/codemirror.min.css"></link>
+
+    <script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/codemirror/5.52.2/codemirror.min.js"></script>
+    <script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/codemirror/5.52.2/mode/javascript/javascript.min.js"></script>
+
+</head>
+<body>
+    <script>
+
+
+
+        function codeExample() {
+var text = `
+//firebase import
+import firebase from "https://cdn.skypack.dev/firebase/compat/app";
+import "https://cdn.skypack.dev/firebase/compat/auth";
+import "https://cdn.skypack.dev/firebase/compat/firestore";
+
+//jquery import
+import "https://code.jquery.com/jquery-3.6.1.min.js"
+`
+
+
+            return text
+        }
+
+        CodeMirror(document.body, {
+        lineNumbers: true,
+        tabSize: 2,
+        value: codeExample().toString(),
+        mode: 'javascript'
+        });
+        
+      </script>
+</body>
+</html>
