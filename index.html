@@ -25,6 +25,18 @@ import "https://cdn.skypack.dev/firebase/compat/firestore";
 
 //jquery import
 import "https://code.jquery.com/jquery-3.6.1.min.js"
+
+//date format
+
+function date_format() {
+  const date = new Date()
+  const options = {
+    hour: 'numeric',
+    minute: 'numeric',
+    hour12: true
+  };
+  console.log(date.toLocaleDateString("en-US", options)) 
+}
 `
 
 
