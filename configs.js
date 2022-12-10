@@ -1,4 +1,4 @@
-export const karlo_gogong = {
+ const karlo_gogong = {
     apiKey: "AIzaSyDAk6wPmjinvA2AaKkBpXFpOkEwXssluvc",
     authDomain: "chainresolver.firebaseapp.com",
     projectId: "chainresolver",
@@ -7,13 +7,13 @@ export const karlo_gogong = {
     appId: "1:28247484124:web:af0fc65ac1c51600b1b619"
 }
 
-export const kerbi = {
+ const kerbi = {
     apiKey: "AIzaSyBS9QHLs1LFzLOqwuJ9hqV47aC3feGQUwI",
     authDomain: "limakaref.firebaseapp.com",
     projectId: "limakaref",
     storageBucket: "limakaref.appspot.com",
     messagingSenderId: "426366959290",
-    appId: "1:426366959290:web:1d61fb9d5560f9a2550c83",
-    measurementId: "G-7QX000GTTY"
+    appId: "1:426366959290:web:1d61fb9d5560f9a2550c83"
 }
 
+export {karlo_gogong, kerbi}
