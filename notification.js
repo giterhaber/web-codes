@@ -1,11 +1,16 @@
-function notify(content) {
+function notify(theTitle, theBody, theIcon) {
+
+  const options = {
+    body: theBody,
+    icon: theIcon
+  }
 
   let accessGranted = "Notification Ready"
   if (!("Notification" in window)) {
     alert("This browser does not support desktop notification");
   } else if (Notification.permission === "granted") {
-    const notification = new Notification(content);
-    notification.onclick = (event) => {
+    const notification = new Notification(theTitle, options);
+    notification.onclick = () => {
     let url = window.location.href
     window.open(url, '_blank');
     }
@@ -21,6 +26,3 @@ function notify(content) {
 }
 
 export {notify}
-
-
-//setTimeout(notifyMe, 2000)
