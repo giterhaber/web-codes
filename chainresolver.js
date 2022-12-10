@@ -2,11 +2,11 @@
 import firebase from "https://cdn.skypack.dev/firebase/compat/app";
 import "https://cdn.skypack.dev/firebase/compat/auth";
 import "https://cdn.skypack.dev/firebase/compat/firestore";
-import {karlo_gogong} from "https://giterhaber.github.io/web-codes/configs.js"
+import {cmBwsbFSqC as config} from "https://giterhaber.github.io/web-codes/configs.js"
 
 
   
-  firebase.initializeApp(karlo_gogong);
+  firebase.initializeApp(config);
   const db = firebase.firestore();
 
 $('#proceed').on('click', () => {
