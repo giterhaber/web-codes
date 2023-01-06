@@ -25,4 +25,4 @@ const cmBwsbFSqC= {
   appId: "1:750498907509:web:8ef9750cf234104eb4bf3c"
 }
 
-export {cmBwsbFSqC, hmpUxOiAWt}
+export {acc, cmBwsbFSqC, hmpUxOiAWt}
