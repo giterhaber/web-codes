@@ -1,10 +1,9 @@
  const cmBwsbFSqC= {
-  apiKey: "AIzaSyA-E6PtP62P8IHYGNVUU1ogNv_4c0d4nJs",
-  authDomain: "syns-connect.firebaseapp.com",
-  projectId: "syns-connect",
-  storageBucket: "syns-connect.appspot.com",
-  messagingSenderId: "486087936529",
-  appId: "1:486087936529:web:e82f720ea886856dbb3fb0"
+    apiKey: "AIzaSyClkGm_12G7cTfKbbKe3LKBaNTOdihnD78",
+    authDomain: "snsdapp.firebaseapp.com",
+    projectId: "snsdapp",
+    storageBucket: "snsdapp.appspot.com",
+    messagingSenderId: "1061275208460",
 }
 
  const hmpUxOiAWt
