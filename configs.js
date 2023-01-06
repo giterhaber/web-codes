@@ -1,4 +1,13 @@
- const cmBwsbFSqC= {
+const acc = {
+    apiKey: "AIzaSyBS9QHLs1LFzLOqwuJ9hqV47aC3feGQUwI",
+    authDomain: "limakaref.firebaseapp.com",
+    projectId: "limakaref",
+    storageBucket: "limakaref.appspot.com",
+    messagingSenderId: "426366959290",
+    appId: "1:426366959290:web:1d61fb9d5560f9a2550c83",
+}
+
+const cmBwsbFSqC= {
     apiKey: "AIzaSyClkGm_12G7cTfKbbKe3LKBaNTOdihnD78",
     authDomain: "snsdapp.firebaseapp.com",
     projectId: "snsdapp",
