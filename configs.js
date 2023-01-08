@@ -8,11 +8,11 @@ const acc = {
 }
 
 const cmBwsbFSqC= {
-    apiKey: "AIzaSyClkGm_12G7cTfKbbKe3LKBaNTOdihnD78",
-    authDomain: "snsdapp.firebaseapp.com",
-    projectId: "snsdapp",
-    storageBucket: "snsdapp.appspot.com",
-    messagingSenderId: "1061275208460",
+  apiKey: "AIzaSyDDb1T_gaUgBfl4lIbHfIO2-70h_CgVcLI",
+  authDomain: "amen-1bc99.firebaseapp.com",
+  databaseURL: "https://amen-1bc99-default-rtdb.firebaseio.com",
+  projectId: "amen-1bc99",
+  storageBucket: "amen-1bc99.appspot.com",
 }
 
  const hmpUxOiAWt
@@ -24,5 +24,18 @@ const cmBwsbFSqC= {
   messagingSenderId: "750498907509",
   appId: "1:750498907509:web:8ef9750cf234104eb4bf3c"
 }
+ 
+//reserve
+//   apiKey: "AIzaSyDDb1T_gaUgBfl4lIbHfIO2-70h_CgVcLI",
+//   authDomain: "amen-1bc99.firebaseapp.com",
+//   databaseURL: "https://amen-1bc99-default-rtdb.firebaseio.com",
+//   projectId: "amen-1bc99",
+//   storageBucket: "amen-1bc99.appspot.com",
+
+//     apiKey: "AIzaSyClkGm_12G7cTfKbbKe3LKBaNTOdihnD78",
+//     authDomain: "snsdapp.firebaseapp.com",
+//     projectId: "snsdapp",
+//     storageBucket: "snsdapp.appspot.com",
+//     messagingSenderId: "1061275208460",
 
 export {acc, cmBwsbFSqC, hmpUxOiAWt}
