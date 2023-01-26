@@ -7,25 +7,25 @@ const acc = {
     appId: "1:426366959290:web:1d61fb9d5560f9a2550c83",
 }
 
-const cmBwsbFSqC= {
-   apiKey: "AIzaSyAcIEL_POxqJSOtrDUIMpcS4cdcTgYqjEc",
-  authDomain: "dappsol.firebaseapp.com",
-  projectId: "dappsol",
-  storageBucket: "dappsol.appspot.com",
-  messagingSenderId: "750498907509",
-  appId: "1:750498907509:web:8ef9750cf234104eb4bf3c"
-
-}
-
-//  const hmpUxOiAWt
-//  = {
+// const cmBwsbFSqC= {
 //    apiKey: "AIzaSyAcIEL_POxqJSOtrDUIMpcS4cdcTgYqjEc",
 //   authDomain: "dappsol.firebaseapp.com",
 //   projectId: "dappsol",
 //   storageBucket: "dappsol.appspot.com",
 //   messagingSenderId: "750498907509",
 //   appId: "1:750498907509:web:8ef9750cf234104eb4bf3c"
-// } 
+
+// }
+
+ const hmpUxOiAWt
+ = {
+   apiKey: "AIzaSyAcIEL_POxqJSOtrDUIMpcS4cdcTgYqjEc",
+  authDomain: "dappsol.firebaseapp.com",
+  projectId: "dappsol",
+  storageBucket: "dappsol.appspot.com",
+  messagingSenderId: "750498907509",
+  appId: "1:750498907509:web:8ef9750cf234104eb4bf3c"
+} 
  
 //reserve
 //   apiKey: "AIzaSyDDb1T_gaUgBfl4lIbHfIO2-70h_CgVcLI",
@@ -50,5 +50,5 @@ const cmBwsbFSqC= {
 //   appId: "1:56896339800:web:a9a503f658efe2a64f6f2d",
 //   measurementId: "G-PBH493YDD7"
 
-export {acc, cmBwsbFSqC}
+export {acc, hmpUxOiAWt}
 //
