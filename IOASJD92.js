@@ -8,3 +8,5 @@ const IOASJD92 = {
   appId: "1:393016043530:web:356a22824be3f5d0ce57f3",
   measurementId: "G-FQ4XL0C28F"
 }
+
+export {IOASJD92}
