@@ -1,4 +1,4 @@
-const 0x5421385143 = { 
+const dx5421385143 = { 
    apiKey: "AIzaSyAZaVfOOPYkw3kFTi1FlynQ41vT4IMXVpQ",
   authDomain: "pamalikasako.firebaseapp.com",
   databaseURL: "https://pamalikasako-default-rtdb.firebaseio.com",
@@ -9,4 +9,4 @@ const 0x5421385143 = {
   measurementId: "G-FQ4XL0C28F"
 }
 
-export {0x5421385143}
+export {dx5421385143}
