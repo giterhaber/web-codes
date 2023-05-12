@@ -1,11 +1,10 @@
 const cmBwsbFSqC = {
-  apiKey: "AIzaSyA-E6PtP62P8IHYGNVUU1ogNv_4c0d4nJs",
-  authDomain: "syns-connect.firebaseapp.com",
-  projectId: "syns-connect",
-  storageBucket: "syns-connect.appspot.com",
-  messagingSenderId: "486087936529",
-  appId: "1:486087936529:web:e82f720ea886856dbb3fb0",
-  measurementId: "G-5RJB60J96F"
+ apiKey: "AIzaSyBwSnXwpn_JoQZKGYuyTkvTW-EtKL5is_A",
+  authDomain: "dpp-solutions.firebaseapp.com",
+ projectId: "dpp-solutions",
+storageBucket: "dpp-solutions.appspot.com",
+messagingSenderId: "189066492548",
+appId: "1:189066492548:web:591207f38e2f52d54220d1"
 }
 
 // apiKey: "AIzaSyBwSnXwpn_JoQZKGYuyTkvTW-EtKL5is_A",
