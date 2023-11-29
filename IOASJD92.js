@@ -1,12 +1,10 @@
 const IOASJD92 = {
-  apiKey: "AIzaSyDDb1T_gaUgBfl4lIbHfIO2-70h_CgVcLI",
-  authDomain: "amen-1bc99.firebaseapp.com",
-  databaseURL: "https://amen-1bc99-default-rtdb.firebaseio.com",
-  projectId: "amen-1bc99",
-  storageBucket: "amen-1bc99.appspot.com",
-  messagingSenderId: "700594999363",
-  appId: "1:700594999363:web:8786a683838ac11fe884f6",
-  measurementId: "G-B7624NJNCP"
+  apiKey: "AIzaSyAwgl9gx70XCSBpTiJ7fTptoGG52uoHIQM",
+  authDomain: "baebae-84309.firebaseapp.com",
+  projectId: "baebae-84309",
+  storageBucket: "baebae-84309.appspot.com",
+  messagingSenderId: "15748557750",
+  appId: "1:15748557750:web:1a5b98c23392dd30dcef17"
 }
 
   // apiKey: "AIzaSyDDb1T_gaUgBfl4lIbHfIO2-70h_CgVcLI",
