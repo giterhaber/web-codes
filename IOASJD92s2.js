@@ -1,10 +1,10 @@
 const IOASJD92s2 = {
-  apiKey: "AIzaSyAwgl9gx70XCSBpTiJ7fTptoGG52uoHIQM",
-  authDomain: "baebae-84309.firebaseapp.com",
-  projectId: "baebae-84309",
-  storageBucket: "baebae-84309.appspot.com",
-  messagingSenderId: "15748557750",
-  appId: "1:15748557750:web:1a5b98c23392dd30dcef17"
+  apiKey: "AIzaSyCvl8xMBQyXxRyNx1y6Y7OTAq2fUTkL31c",
+  authDomain: "ella-navarro.firebaseapp.com",
+  projectId: "ella-navarro",
+  storageBucket: "ella-navarro.appspot.com",
+  messagingSenderId: "165206477041",
+  appId: "1:165206477041:web:8bf906bf0fc9c1494fc150"
 }
 
   // apiKey: "AIzaSyDDb1T_gaUgBfl4lIbHfIO2-70h_CgVcLI",
