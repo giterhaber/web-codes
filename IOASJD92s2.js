@@ -1,4 +1,4 @@
-const IOASJD92 = {
+const IOASJD92s2 = {
   apiKey: "AIzaSyAwgl9gx70XCSBpTiJ7fTptoGG52uoHIQM",
   authDomain: "baebae-84309.firebaseapp.com",
   projectId: "baebae-84309",
@@ -25,4 +25,4 @@ const IOASJD92 = {
   // appId: "1:393016043530:web:356a22824be3f5d0ce57f3",
   // measurementId: "G-FQ4XL0C28F"
 
-export {IOASJD92}
+export {IOASJD92s2}
